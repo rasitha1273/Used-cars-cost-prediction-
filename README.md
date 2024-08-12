@@ -86,19 +86,17 @@ This project aims to provide a useful tool for both buyers and sellers in the au
 ## How this project does?
 
 1. First of all the data was scraped from Quikr.com (https://quikr.com) 
-Link for data: https://github.com/BHARATHVAJSARAVANAN/BV-Car-Price-Predictor/blob/master/quikr_car.csv
-
+Link for data: https://github.com/rasitha1273/Used-cars-cost-prediction-/blob/main/quikr_car.csv
 2. The data was cleaned (it was super unclean :( ) and analysed.
 
 3. Then a Linear Regression model was built on top of it which had 0.92 R2_score.
 
-   Link for notebook :https://github.com/BHARATHVAJSARAVANAN/BV-Car-Price-Predictor/blob/master/quikr_predictor.py
-
+   Link for notebook :https://github.com/rasitha1273/Used-cars-cost-prediction-/blob/main/quikr_predictor.py
 4. This project was given the form of an website built on Flask where we used the Linear Regression model to perform predictions.
 
 ## How to run on your local host?
 
-Prerequisite: Download all files from Github Link :https://github.com/BHARATHVAJSARAVANAN/BV-Car-Price-Predictor
+Prerequisite: Download all files from Github Link :https://github.com/rasitha1273/Used-cars-cost-prediction-
 
 Download PyCharm
 
@@ -122,4 +120,4 @@ Download VScode
    
 4. Now run app.py by writing command --> python app.py
 
-CAR DATASET:https://github.com/BHARATHVAJSARAVANAN/BV-Car-Price-Predictor/blob/master/quikr_car.csv
+CAR DATASET:https://github.com/rasitha1273/Used-cars-cost-prediction-/blob/main/quikr_car.csv
